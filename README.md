@@ -10,14 +10,18 @@ I am open to cooperation :handshake::handshake::handshake:
 
 * React
   * Redux
+  * redux-toolkit
   * Hooks
   * Styled-Components
 * REST API
 * Firebase
 * JavaScript
+* jQuery
 * CSS
   * SASS/SCSS
 * HTML
+* NPM
+* Webpack
  
  
  ### Contact   :e-mail::e-mail::e-mail:
