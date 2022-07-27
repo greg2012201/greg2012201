@@ -13,9 +13,15 @@ I am open to cooperation :handshake::handshake::handshake:
   * redux-toolkit
   * Hooks
   * Styled-Components
+  * Gatsby
 * REST API
+* GraphQL
 * Firebase
 * JavaScript
+* TypeScript
+* MongoDB
+* Express
+* Node.js
 * jQuery
 * CSS
   * SASS/SCSS
