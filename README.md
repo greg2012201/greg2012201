@@ -25,6 +25,8 @@ I am open to cooperation :handshake::handshake::handshake:
 * jQuery
 * CSS
   * SASS/SCSS
+* Mocha
+* Chai
 * HTML
 * NPM
 * Webpack
