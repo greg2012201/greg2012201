@@ -10,12 +10,13 @@ I am open to cooperation :handshake::handshake::handshake:
 
 * React
   * Redux
-  * redux-toolkit
-  * Hooks
-  * Styled-Components
+  * Next.js
   * Gatsby
-* REST API
+  * Redux
+  * Tailwind
+  * Styled-Components
 * GraphQL
+* REST API
 * Firebase
 * JavaScript
 * TypeScript
